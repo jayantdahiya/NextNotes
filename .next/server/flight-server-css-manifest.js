@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/jayantdahiya/Documents/GitHub/NextNotes/src/app/layout.tsx": [
+      "/Users/jayantdahiya/Documents/GitHub/NextNotes/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/jayantdahiya/Documents/GitHub/NextNotes/src/app/styles/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/jayantdahiya/Documents/GitHub/NextNotes/src/app/page": [
+      "/Users/jayantdahiya/Documents/GitHub/NextNotes/src/app/styles/globals.css",
+      "/Users/jayantdahiya/Documents/GitHub/NextNotes/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
